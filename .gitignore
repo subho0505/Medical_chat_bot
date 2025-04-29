@@ -1,0 +1,16 @@
+# Ignore .env file
+.env
+
+# Ignore virtual environment folder (myvenv)
+myvenv/
+
+# Additional common ignores for Python projects
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.DS_Store
+.idea/
+.vscode/
