@@ -90,11 +90,3 @@ python gradio_app.py
   ```bash
   deactivate
   ```
-
----
-
-🎉 That’s it! Your Windows environment is now fully set up for development. If you run into any issues, feel free to ask for help. Happy coding!
-
----
-
-Would you like a PDF or styled Markdown version of this guide?
